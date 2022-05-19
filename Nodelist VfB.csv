@@ -1,0 +1,87 @@
+id,name,country,type
+1,Florian Müller,de,1
+Mainz,1.FSV Mainz,de,2
+42,Florian Schock,de,1
+VfB 2,VfB 2.Mannschaft,de,2
+37,Hiroki Ito,jpn,1
+Jubilo Iwata,Jubilo Iwata1,jpn,2
+32,Naouirou Ahamada,fra,1
+Juventus,Juventus Turin U23,it,2
+8,Enzo Millot,fra,1
+Monaco,AS Monaco,mco,2
+28,Nikolas Nartey,dnk,1
+Sandhausen,SV Sandhausen,de,2
+34,Ömer Beyaz,tur,1
+Istanbul,Fenerbahce Istanbul,tur,2
+Paderborn,SC Paderborn,de,2
+22,Chris Führich,de,1
+18, Tiago Tomás,prt,1
+Lissabon,Sporting Lissabon,prt,2
+17,Omar Marmoush,egy,1
+Wolfsburg,VfL Wolfsburg,de,2
+19,Wahid Faghir,dnk,1
+Vejle,Vejle Boldklub,dnk,2
+50,Alexis Tibidi,fra,1
+VfB U19,VfB U19 1,de,2
+44,Mohamed Sankoh,nld,1
+33,Fabian Bredlow,de,1
+Nürnberg,1.FC Nürnberg,de,2
+5,Konstantinos Mavropanos,grc,1
+Arsenal,FC Arsenal,gbr,2
+2,Waldemar Anton,de,1
+Hannover,Hannover 96,de,2
+24,Borna Sosa,hrv,1
+Zagreb,Dinamo Zagreb,hrv,2
+15,Pascal Stenzel,de,1
+Freiburg,SC Freiburg,de,2
+23,Orel Mangala,bel,1
+Hamburg,Hamburger SV,de,2
+3,Wataru Endo,jpn,1
+Truiden,VV St. Truiden,bel,2
+16,Atakan Karazor,de,1
+Kiel,Holstein Kiel,de,2
+6,Clinton Mola,gbr,1
+Chelsea U23,Chelsea U23 1,gbr,2
+14,Silas Katompa Mvumpa,cod,1
+Paris,Paris FC,fra,2
+30,Roberto Massimo,de,1
+Bielefeld,Arm. Bielefeld,de,2
+11,Erik Thommy,de,1
+Düsseldorf,F. Düsseldorf,de,2
+20,Philipp Förster,de,1
+31,Mateo Klimowicz,de,1
+Instituto,Instituto AC,ar,2
+25,Lilian Egloff,de,1
+10,Daniel Didavi,de,1
+7,Tanguy Coulibaly,fra,1
+Paris SG U19,Paris SG U19 1,fra,2
+9,Sasa Kalajdzic,at,1
+Admira Wacker,Admira Wacker 1,at,2
+Deutschland,,,
+Japan,,,
+Frankreich,,,
+Italien,,,
+Dänemark,,,
+Monaco,,,
+Türkei,,,
+Portugal,,,
+Ägypten,,,
+Niederlande,,,
+Griechenland,,,
+England,,,
+Kroatien,,,
+Belgien,,,
+DR Kongo,,,
+Österreich,,,
+Usbekistan,,,
+Komoren,,,
+Martinique,,,
+Ghana,,,
+Argentinien,,,
+Benin,,,
+Elfenbeinküste,,,
+Serbien,,,
+Kanada,,,
+Afghanistan,,,
+Kamerun,,,
+Sierra Leone,,,
