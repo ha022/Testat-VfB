@@ -1,63 +1,78 @@
 from,to,weight,season
-mainz,1,50,2021
-hannover,2,40,2020
-truiden,3,17,2020
-arsenal,5,8,2020
-chelsea,6,4,2020
-paris,7,,2019
-monaco,8,18,2021
-moedling,9,18,2019
-wolfsburg,10,,2018
-augsburg,11,5,2018
-parisfc,14,80,2019
-freiburg,15,13,2020
-kiel,16,8,2019
-wolfsburg,17,,2021
-lissabon,18,5,2022
-boldklub,19,45,2021
-sandhausen,20,30,2019
-paderborn,22,25,2021
-anderlecht,23,18,2017
-zagreb,24,60,2018
-vfb,25,,2020
-koeln,28,,2019
-bielefeld,30,25,2018
-cordoba,31,17,2019
-turin,32,15,2021
-nuernberg,33,3,2019
-istanbul,34,,2021
-iwata,37,1,2021
-vfb,42,,2021
-vfb,44,,2021
-vfb,50,,2022
+Mainz,1,50,2021
+Nuernberg,33,3,2019
+Vfb 2,42,,2021
+Arsenal,5,8,2020
+Hannover,2,40,2020
+Iwata,37,1,2021
+Zagreb,24,60,2018
+Freiburg,15,13,2020
+Hamburg,23,18,2019
+Truiden,3,17,2020
+Kiel,16,8,2019
+Juventus,32,15,2021
+Chelsea,6,4,2020
+Monaco,8,18,2021
+Koeln,28,,2019
+Paris fc,14,80,2019
+Bielefeld,30,25,2018
+Augsburg,11,5,2018
+Sandhausen,20,30,2019
+Instituto,31,17,2019
+Vfb U19,25,,2020
+Istanbul,34,,2021
+Wolfsburg,10,,2018
+Paris,7,,2019
+Paderborn,22,25,2021
+Admira Wacker,9,18,2019
+Lissabon,18,5,2022
+Wolfsburg,17,,2021
+Vejle,19,45,2021
+Vfb U19,50,,2022
+Vfb 2,44,,2021
 1,Deutschland,,
 2,Deutschland,,
+2,Kroatien,,
 3,Japan,,
 5,England,,
 6,England,,
+6,DR Kongo,,
 7,Frankreich,,
+7,Elfenbeinküste,,
 8,Frankreich,,
 9,Oesterreich,,
+9,Serbien,,
 10,Deutschland,,
+10,Benin,,
 11,Deutschland,,
-14,DRKongo,,
+14,DR Kongo,,
 15,Deutschland,,
 16,Deutschland,,
 17,Aegypten,,
+17,Kanada,,
 18,Portugal,,
 19,Daenemark,,
+19,Afghanistan,,
 20,Deutschland,,
 22,Deutschland,,
 23,Belgien,,
+23,DR Kongo,,
 24,Kroatien,,
+24,Deutschland,,
 25,Deutschland,,
 28,Daenemark,,
+28,Ghana,,
 30,Deutschland,,
+30,Italien,,
 31,Deutschland,,
+31,Argentinien,,
 32,Frankreich,,
+32,Komoren,,
 33,Deutschland,,
 34,Tuerkei,,
 37,Japan,,
 42,Deutschland,,
 44,Niederlande,,
+44,Sierra Leone,,
 50,Frankreich,,
+50,Kamerun,,
